@@ -27,6 +27,7 @@
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="pixel" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="pixel" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="aros" />
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="aros" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="pixel" />
 
   <!-- Prebuilts repos -->
